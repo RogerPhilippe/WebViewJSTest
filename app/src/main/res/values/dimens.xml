@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btn_ir_layout_width">46dp</dimen>
+    <dimen name="tv_url_layout_width">338dp</dimen>
+</resources>
